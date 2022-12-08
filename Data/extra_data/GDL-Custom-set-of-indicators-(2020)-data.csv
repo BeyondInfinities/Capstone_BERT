@@ -1,0 +1,93 @@
+Country,Continent,ISO_Code,Level,GDLCODE,Region,"Gini coefficient","Urbanization","Area pop millions","Area pop share","% Aged 0-9","% Aged 10-19","% Aged 20-29","% Aged 30-39","% Aged 40-49","% Aged 50-59","% Aged 60-69","% Aged 70-79","% Aged 80-89","% Aged 90+","HH size"
+"Argentina","America","ARG","National","ARGTt","Total",0.05,,,,,,,,,,,,,,
+"Argentina","America","ARG","National","ARGTt","Total",,,,100,,,,,,,,,,,
+"Argentina","America","ARG","National","ARGTt","Total",,,,,15.2,,,,,,,,,,
+"Argentina","America","ARG","National","ARGTt","Total",,,,,,15.9,,,,,,,,,
+"Argentina","America","ARG","National","ARGTt","Total",,,,,,,14.7,,,,,,,,
+"Argentina","America","ARG","National","ARGTt","Total",,,,,,,,13.0,,,,,,,
+"Argentina","America","ARG","National","ARGTt","Total",,,,,,,,,11.8,,,,,,
+"Argentina","America","ARG","National","ARGTt","Total",,,,,,,,,,10.5,,,,,
+"Argentina","America","ARG","National","ARGTt","Total",,,,,,,,,,,9.21,,,,
+"Argentina","America","ARG","National","ARGTt","Total",,,,,,,,,,,,6.61,,,
+"Argentina","America","ARG","National","ARGTt","Total",,,,,,,,,,,,,2.51,,
+"Argentina","America","ARG","National","ARGTt","Total",,,,,,,,,,,,,,0.59,
+"Argentina","America","ARG","National","ARGTt","Total",,,,,,,,,,,,,,,2.95
+"Argentina","America","ARG","Poverty","ARGp1","Poor",0.08,,,0.34,32.4,22.3,20.5,10.5,2.25,6.09,4.36,0.70,0.84,0.00,3.03
+"Argentina","America","ARG","Poverty","ARGp0","Nonpoor",0.05,,,99.5,15.2,15.9,14.7,13.0,11.9,10.5,9.23,6.63,2.52,0.60,2.95
+"Argentina","America","ARG","Wealth quartiles","ARGw41","Lowest 25%",0.07,,,28.5,21.7,18.9,16.8,12.7,9.32,8.62,6.89,3.66,1.23,0.22,3.36
+"Argentina","America","ARG","Wealth quartiles","ARGw42","Second 25%",0.04,,,26.1,15.7,17.3,15.2,12.9,12.0,9.95,8.19,5.82,2.34,0.50,3.08
+"Argentina","America","ARG","Wealth quartiles","ARGw43","Third 25%",0.04,,,22.5,11.8,13.8,13.3,13.3,12.2,10.7,10.5,9.18,4.04,1.09,2.66
+"Argentina","America","ARG","Wealth quartiles","ARGw44","Highest 25%",0.03,,,22.9,9.85,12.6,12.9,13.1,14.3,13.3,12.0,8.66,2.79,0.69,2.70
+"Argentina","America","ARG","Subnat","ARGr103","Catamarca, La Rioja, San Juan",0.06,,,9.09,16.2,19.1,17.1,12.7,11.0,11.1,7.80,3.77,1.14,0.24,3.39
+"Argentina","America","ARG","Subnat","ARGr106","Chaco, Formosa",0.04,,,4.82,14.8,15.9,13.8,14.4,12.6,12.6,9.67,4.25,1.57,0.37,2.73
+"Argentina","America","ARG","Subnat","ARGr101","City of Buenos Aires",0.05,,,45.9,14.7,15.0,13.8,13.2,11.6,10.4,9.54,8.09,3.00,0.70,2.79
+"Argentina","America","ARG","Subnat","ARGr104","Cordoba",0.05,,,7.09,15.2,16.8,15.8,11.6,11.7,11.1,8.89,6.01,2.34,0.51,3.23
+"Argentina","America","ARG","Subnat","ARGr105","Corrientes, Entre Rios, Misiones",0.05,,,21.1,15.0,15.7,13.9,12.4,12.4,10.2,10.1,6.62,2.78,0.75,2.83
+"Argentina","America","ARG","Subnat","ARGr102","Rest of Buenos Aires",0.05,,,12.0,17.0,16.6,17.2,13.8,11.8,9.75,7.44,4.43,1.70,0.31,3.55
+"Gambia","Africa","GMB","National","GMBt","Total",,69.3,,100,31.1,23.3,16.4,11.2,7.17,5.10,3.38,1.55,0.64,0.22,8.28
+"Gambia","Africa","GMB","Urb/rur","GMBtu","Urban",,100,,69.3,28.9,23.1,18.2,12.0,7.67,4.96,3.09,1.34,0.56,0.21,7.53
+"Gambia","Africa","GMB","Urb/rur","GMBtr","Rural",,0.00,,30.7,36.1,23.7,12.2,9.43,6.04,5.41,4.05,2.02,0.82,0.24,10.7
+"Gambia","Africa","GMB","Poverty","GMBp1","Poor",,37.2,,32.4,35.1,23.8,12.9,9.61,7.03,5.30,3.75,1.66,0.68,0.19,8.26
+"Gambia","Africa","GMB","Poverty","GMBp0","Nonpoor",,84.6,,67.6,29.2,23.0,18.0,12.0,7.24,5.00,3.21,1.50,0.63,0.23,8.30
+"Gambia","Africa","GMB","Wealth quartiles","GMBw41","Lowest 25%",,21.6,,26.2,35.6,24.0,12.4,9.16,6.88,5.27,4.06,1.74,0.71,0.20,8.69
+"Gambia","Africa","GMB","Wealth quartiles","GMBw42","Second 25%",,66.4,,22.8,32.4,23.9,15.3,10.6,7.14,5.23,3.16,1.51,0.57,0.20,7.54
+"Gambia","Africa","GMB","Wealth quartiles","GMBw43","Third 25%",,89.8,,24.1,30.9,23.1,17.4,12.0,7.09,4.92,2.77,1.11,0.65,0.12,7.98
+"Gambia","Africa","GMB","Wealth quartiles","GMBw44","Highest 25%",,99.7,,27.0,25.9,22.2,20.2,13.0,7.54,4.98,3.46,1.79,0.63,0.34,8.93
+"Gambia","Africa","GMB","Subnat","GMBr101","Banjul",,100,,1.31,22.6,21.0,18.2,15.2,9.98,6.11,3.76,1.83,0.71,0.54,4.56
+"Gambia","Africa","GMB","Subnat","GMBr108","Basse",,34.6,,10.8,36.4,24.2,12.7,9.95,5.00,5.54,3.56,1.83,0.77,0.08,13.2
+"Gambia","Africa","GMB","Subnat","GMBr103","Brikama",,93.8,,42.5,29.8,23.9,17.4,11.6,7.73,4.60,3.00,1.22,0.62,0.17,8.26
+"Gambia","Africa","GMB","Subnat","GMBr107","Janjabureh",,14.1,,5.76,34.8,24.3,12.5,9.71,6.64,5.52,3.93,1.65,0.77,0.16,9.42
+"Gambia","Africa","GMB","Subnat","GMBr102","Kanifing",,100,,19.5,25.9,21.5,21.1,12.9,8.02,5.15,3.20,1.49,0.38,0.30,6.39
+"Gambia","Africa","GMB","Subnat","GMBr105","Kerewan",,25.6,,11.0,35.1,23.6,12.6,9.35,6.24,5.64,4.19,2.02,0.92,0.31,9.42
+"Gambia","Africa","GMB","Subnat","GMBr106","Kuntaur",,6.79,,4.96,37.7,21.9,11.8,10.0,6.36,5.42,3.73,2.21,0.70,0.16,10.6
+"Gambia","Africa","GMB","Subnat","GMBr104","Mansakonko",,21.3,,4.13,33.7,23.7,12.8,9.52,6.39,6.06,4.29,2.27,0.83,0.44,7.94
+"Kosovo","Europe","XKO","National","KSVt","Total",0.04,41.7,1.79,100,15.3,18.1,16.0,12.8,13.0,11.2,7.51,4.34,1.53,0.15,4.90
+"Kosovo","Europe","XKO","Urb/rur","KSVtu","Urban",0.03,100,0.75,41.7,14.9,17.5,16.1,13.1,13.2,11.3,8.19,4.27,1.44,0.10,4.58
+"Kosovo","Europe","XKO","Urb/rur","KSVtr","Rural",0.05,0.00,1.05,58.3,15.6,18.5,16.0,12.5,12.9,11.2,7.03,4.40,1.60,0.18,5.16
+"Kosovo","Europe","XKO","Wealth quartiles","KSVw41","Lowest 25%",0.06,29.6,0.46,25.8,18.1,21.9,14.1,12.3,13.3,9.46,6.03,3.41,1.40,0.12,5.05
+"Kosovo","Europe","XKO","Wealth quartiles","KSVw42","Second 25%",0.04,34.5,0.46,25.5,15.0,18.1,15.7,12.7,13.0,11.6,8.08,4.14,1.51,0.15,5.01
+"Kosovo","Europe","XKO","Wealth quartiles","KSVw43","Third 25%",0.03,37.9,0.45,25.1,13.6,15.9,18.1,12.9,12.6,12.4,8.13,4.67,1.66,0.08,4.92
+"Kosovo","Europe","XKO","Wealth quartiles","KSVw44","Highest 25%",0.03,66.8,0.42,23.6,14.4,16.3,16.4,13.3,13.3,11.4,7.88,5.25,1.57,0.25,4.64
+"Kosovo","Europe","XKO","Subnat","KSVr107","Ferizaj",0.04,35.3,0.20,11.0,15.7,18.9,16.3,12.6,14.3,11.0,6.31,3.65,1.28,0.10,4.78
+"Kosovo","Europe","XKO","Subnat","KSVr101","Gjakova",0.04,34.0,0.18,9.87,13.8,18.0,16.4,12.2,13.4,11.8,8.27,4.39,1.61,0.22,5.01
+"Kosovo","Europe","XKO","Subnat","KSVr102","Gjilan",0.05,39.9,0.18,10.1,13.9,18.2,16.2,10.7,13.6,12.8,7.60,4.85,2.05,0.15,4.72
+"Kosovo","Europe","XKO","Subnat","KSVr103","Mitrovica",0.04,45.6,0.23,13.0,15.0,16.5,15.8,14.1,12.1,10.9,8.39,5.39,1.75,0.17,4.64
+"Kosovo","Europe","XKO","Subnat","KSVr104","Peja",0.04,33.1,0.17,9.31,15.5,18.4,15.5,11.9,13.4,11.7,7.45,4.17,1.92,0.13,4.74
+"Kosovo","Europe","XKO","Subnat","KSVr106","Pristina",0.04,50.5,0.57,31.8,16.0,18.5,16.5,13.4,12.4,10.8,7.13,4.04,1.18,0.09,4.97
+"Kosovo","Europe","XKO","Subnat","KSVr105","Prizren",0.04,36.5,0.27,15.1,15.7,17.8,15.1,12.8,13.5,11.0,7.93,4.33,1.64,0.25,5.28
+"Malawi","Africa","MWI","National","MWIt","Total",0.31,15.5,,100,29.8,26.4,15.3,10.9,7.17,4.61,2.95,1.94,0.79,0.22,4.28
+"Malawi","Africa","MWI","Urb/rur","MWItu","Urban",0.27,100,,15.5,25.1,25.5,18.8,14.5,8.37,4.61,1.90,0.88,0.28,0.05,4.16
+"Malawi","Africa","MWI","Urb/rur","MWItr","Rural",0.27,0.00,,84.5,30.6,26.5,14.6,10.3,6.95,4.61,3.14,2.13,0.88,0.25,4.31
+"Malawi","Africa","MWI","Poverty","MWIp1","Poor",0.24,9.33,,88.4,30.6,26.3,15.0,10.6,6.87,4.52,3.02,2.06,0.84,0.24,4.23
+"Malawi","Africa","MWI","Poverty","MWIp0","Nonpoor",0.11,62.6,,11.6,23.2,27.1,17.3,13.7,9.47,5.32,2.41,1.05,0.41,0.03,4.70
+"Malawi","Africa","MWI","Wealth quartiles","MWIw41","Lowest 25%",0.20,1.42,,23.0,35.5,23.8,16.3,9.72,5.38,3.22,2.69,2.18,0.96,0.24,3.93
+"Malawi","Africa","MWI","Wealth quartiles","MWIw42","Second 25%",0.17,2.06,,24.7,31.1,26.2,14.8,9.85,6.70,4.77,3.22,2.27,0.87,0.23,4.23
+"Malawi","Africa","MWI","Wealth quartiles","MWIw43","Third 25%",0.14,7.97,,26.4,28.3,28.0,13.5,10.9,7.55,5.12,3.26,2.16,0.86,0.28,4.51
+"Malawi","Africa","MWI","Wealth quartiles","MWIw44","Highest 25%",0.20,48.4,,26.0,24.9,27.1,16.6,13.1,8.83,5.16,2.61,1.19,0.50,0.12,4.45
+"Malawi","Africa","MWI","Subnat","MWIr101","Blantyre",0.29,61.5,,6.91,25.0,26.4,17.9,12.9,8.90,4.62,2.48,1.30,0.46,0.15,4.03
+"Malawi","Africa","MWI","Subnat","MWIr102","Kasungu",0.30,14.5,,4.37,28.2,26.3,15.0,11.2,7.52,5.53,3.53,1.62,0.91,0.15,4.39
+"Malawi","Africa","MWI","Subnat","MWIr109","Lilongwe",0.32,34.4,,17.7,28.6,25.1,16.9,12.9,6.99,4.31,2.72,1.84,0.53,0.10,4.08
+"Malawi","Africa","MWI","Subnat","MWIr103","Machinga",0.28,2.05,,3.66,34.9,26.1,13.1,9.79,5.92,4.30,2.91,2.03,0.69,0.31,4.14
+"Malawi","Africa","MWI","Subnat","MWIr104","Mangochi",0.33,4.52,,6.42,37.2,24.8,13.4,8.51,6.57,3.69,2.58,2.02,1.13,0.14,4.46
+"Malawi","Africa","MWI","Subnat","MWIr110","Mulanje",0.26,1.90,,3.42,26.2,29.7,12.9,11.1,7.76,4.61,3.63,2.61,0.97,0.59,4.15
+"Malawi","Africa","MWI","Subnat","MWIr105","Mzimba",0.30,20.6,,5.56,29.0,26.8,15.5,10.2,6.83,5.44,3.28,1.85,0.69,0.29,4.57
+"Malawi","Africa","MWI","Subnat","MWIr112","Other central (Nkhota Kota, Mchinji, Dowa, Ntchisi, Dedza, Ntcheu)",0.27,3.91,,20.3,30.0,25.6,15.5,10.9,6.98,4.75,3.06,2.02,0.95,0.19,4.28
+"Malawi","Africa","MWI","Subnat","MWIr111","Other northern (Chitipa, Karonga, Rumphi, Nkhata Bay)",0.27,11.0,,5.80,28.3,27.7,15.2,10.1,7.51,5.00,3.29,1.89,0.79,0.21,4.84
+"Malawi","Africa","MWI","Subnat","MWIr113","Other southern (Balaka, Mwanza, Phalombe, Chiradzulu, Chikwawa, Nsanje, neno)",0.29,4.65,,13.4,31.1,27.0,14.6,10.0,6.89,4.48,2.86,1.97,0.84,0.28,4.33
+"Malawi","Africa","MWI","Subnat","MWIr106","Salima",0.26,9.49,,3.37,32.2,26.7,14.2,9.41,6.97,4.24,2.85,2.38,0.82,0.13,4.70
+"Malawi","Africa","MWI","Subnat","MWIr107","Thyolo",0.30,2.36,,4.78,28.2,27.9,14.1,11.1,7.72,4.79,2.78,2.22,0.80,0.31,4.20
+"Malawi","Africa","MWI","Subnat","MWIr108","Zomba",0.32,10.6,,4.25,28.7,28.5,13.9,9.92,7.65,4.72,3.30,2.03,0.91,0.42,4.11
+"Rwanda","Africa","RWA","National","RWAt","Total",0.32,17.1,,100,28.1,24.5,14.3,13.6,8.55,5.21,3.56,1.43,0.64,0.16,4.33
+"Rwanda","Africa","RWA","Urb/rur","RWAtu","Urban",0.23,100,,17.1,27.0,21.4,19.3,15.7,8.80,4.19,2.24,0.80,0.39,0.15,4.07
+"Rwanda","Africa","RWA","Urb/rur","RWAtr","Rural",0.30,0.00,,82.9,28.4,25.1,13.2,13.2,8.50,5.42,3.83,1.56,0.70,0.17,4.39
+"Rwanda","Africa","RWA","Poverty","RWAp1","Poor",0.26,8.94,,82.6,28.7,24.6,13.5,13.4,8.28,5.34,3.78,1.57,0.70,0.17,4.25
+"Rwanda","Africa","RWA","Poverty","RWAp0","Nonpoor",0.10,55.7,,17.4,25.5,23.7,18.1,14.6,9.79,4.58,2.50,0.77,0.37,0.11,4.78
+"Rwanda","Africa","RWA","Wealth quartiles","RWAw41","Lowest 25%",0.29,4.46,,22.8,31.8,23.0,12.8,13.0,7.86,4.93,3.63,1.76,0.85,0.24,3.95
+"Rwanda","Africa","RWA","Wealth quartiles","RWAw42","Second 25%",0.16,3.54,,25.1,28.4,25.0,13.2,12.9,8.01,5.80,4.02,1.62,0.80,0.17,4.35
+"Rwanda","Africa","RWA","Wealth quartiles","RWAw43","Third 25%",0.13,9.98,,26.1,27.2,25.8,13.3,13.7,8.84,5.51,3.75,1.40,0.50,0.16,4.52
+"Rwanda","Africa","RWA","Wealth quartiles","RWAw44","Highest 25%",0.14,48.5,,26.0,25.5,23.8,17.5,14.8,9.37,4.57,2.85,0.98,0.45,0.10,4.50
+"Rwanda","Africa","RWA","Subnat","RWAr101","City of Kigali",0.22,71.4,,13.0,27.6,20.2,19.3,16.7,8.88,4.15,2.22,0.58,0.34,0.14,4.02
+"Rwanda","Africa","RWA","Subnat","RWAr105","East",0.29,7.32,,27.0,28.4,25.8,13.9,12.8,8.99,5.08,2.97,1.31,0.56,0.14,4.52
+"Rwanda","Africa","RWA","Subnat","RWAr104","North",0.31,9.15,,15.3,27.7,24.3,14.3,14.0,8.06,5.07,4.10,1.43,1.02,0.15,4.25
+"Rwanda","Africa","RWA","Subnat","RWAr102","South",0.34,7.55,,22.2,26.6,24.8,12.8,13.0,8.81,6.37,4.63,1.97,0.79,0.20,4.14
+"Rwanda","Africa","RWA","Subnat","RWAr103","West",0.30,12.3,,22.5,29.9,25.0,13.2,13.3,7.90,4.91,3.61,1.53,0.51,0.18,4.56
